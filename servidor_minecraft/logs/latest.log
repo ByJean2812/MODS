@@ -629,3 +629,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 22:35:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Acquire Hardware]
 [08Jun2025 22:35:05.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Suit Up]
 [08Jun2025 22:37:38.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Isn't It Iron Pick]
+[08Jun2025 22:54:46.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
+[08Jun2025 22:54:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was stung to death
+[08Jun2025 22:54:51.322] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
