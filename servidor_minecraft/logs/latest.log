@@ -632,3 +632,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 22:54:46.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
 [08Jun2025 22:54:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was stung to death
 [08Jun2025 22:54:51.322] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[08Jun2025 22:55:31.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Monster Hunter]
+[08Jun2025 22:56:05.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
+[08Jun2025 22:57:18.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Acquire Hardware]
+[08Jun2025 22:57:32.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
+[08Jun2025 22:58:05.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has completed the challenge [Your dad after a night out with his co-workers]
+[08Jun2025 22:58:29.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Suit Up]
+[08Jun2025 22:58:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Best Friends Forever]
+[08Jun2025 23:05:18.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Neighborhood Brawl]

@@ -35,6 +35,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-08 22:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-08 22:05:28 +0000"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-08 22:57:18 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-06-08 21:56:46 +0000"
@@ -178,8 +190,11 @@
       "minecraft:deep_ocean": "2025-06-08 22:44:00 +0000",
       "minecraft:river": "2025-06-08 22:43:29 +0000",
       "minecraft:stony_shore": "2025-06-08 22:42:19 +0000",
+      "minecraft:grove": "2025-06-08 22:52:56 +0000",
+      "minecraft:jagged_peaks": "2025-06-08 23:00:58 +0000",
       "minecraft:forest": "2025-06-08 21:56:47 +0000",
-      "minecraft:ocean": "2025-06-08 22:43:37 +0000"
+      "minecraft:ocean": "2025-06-08 22:43:37 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-08 22:53:14 +0000"
     },
     "done": false
   },
