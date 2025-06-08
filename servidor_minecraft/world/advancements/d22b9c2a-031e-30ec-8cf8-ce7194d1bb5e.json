@@ -23,6 +23,18 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-08 22:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-08 22:37:38 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-06-08 21:56:57 +0000"
@@ -77,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-08 22:35:00 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-06-08 21:56:57 +0000"
@@ -121,7 +139,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-06-08 21:56:59 +0000"
+      "minecraft:birch_forest": "2025-06-08 22:39:18 +0000",
+      "minecraft:forest": "2025-06-08 21:56:59 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-08 22:39:40 +0000"
     },
     "done": false
   },
