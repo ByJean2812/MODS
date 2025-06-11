@@ -127,10 +127,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-11 04:07:33 +0000",
+      "quark:glimmering_weald": "2025-06-11 04:23:09 +0000",
       "minecraft:birch_forest": "2025-06-08 22:39:18 +0000",
       "minecraft:grove": "2025-06-08 22:50:45 +0000",
       "minecraft:forest": "2025-06-08 21:56:59 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-08 22:39:40 +0000"
+      "minecraft:lush_caves": "2025-06-11 04:40:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-08 22:39:40 +0000",
+      "minecraft:deep_dark": "2025-06-11 04:24:47 +0000",
+      "minecraft:meadow": "2025-06-11 04:01:38 +0000",
+      "minecraft:plains": "2025-06-11 04:00:32 +0000"
     },
     "done": false
   },
@@ -186,6 +192,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-08 22:11:32 +0000",
       "cooked_mutton": "2025-06-08 22:45:22 +0000",
+      "cooked_beef": "2025-06-11 04:20:22 +0000",
       "apple": "2025-06-11 03:23:47 +0000",
       "cooked_rabbit": "2025-06-08 22:45:46 +0000"
     },
@@ -248,6 +255,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-08 22:55:31 +0000",
+      "minecraft:spider": "2025-06-11 04:08:31 +0000",
       "minecraft:zombie": "2025-06-11 03:23:55 +0000"
     },
     "done": false
@@ -315,6 +323,30 @@
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat": "2025-06-11 03:26:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-11 04:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-11 04:25:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-11 04:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-11 04:28:10 +0000"
     },
     "done": true
   },

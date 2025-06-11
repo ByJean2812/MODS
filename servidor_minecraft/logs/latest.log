@@ -603,3 +603,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 03:51:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
 [11Jun2025 03:56:38.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Goblin Thief
 [11Jun2025 03:56:38.662] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[11Jun2025 04:01:24.767] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[11Jun2025 04:01:24.798] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[11Jun2025 04:01:24.799] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[11Jun2025 04:01:24.815] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[11Jun2025 04:01:24.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[11Jun2025 04:01:28.177] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[11Jun2025 04:01:28.178] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[11Jun2025 04:01:28.193] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[11Jun2025 04:01:28.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[11Jun2025 04:01:28.195] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[11Jun2025 04:01:28.309] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[11Jun2025 04:01:28.315] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[11Jun2025 04:01:28.315] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[11Jun2025 04:01:28.316] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[11Jun2025 04:02:51.029] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=53, y=107, z=667}
+[11Jun2025 04:02:54.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3109ms or 62 ticks behind
+[11Jun2025 04:02:54.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 9.913453090015082,-1.7967356006687112,1.495360075764495
+[11Jun2025 04:03:30.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was doomed to fall
+[11Jun2025 04:03:30.520] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[11Jun2025 04:03:48.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Here They Come]
+[11Jun2025 04:08:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Isn't It Iron Pick]
+[11Jun2025 04:10:33.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Decrepit Skeleton
+[11Jun2025 04:10:33.848] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[11Jun2025 04:14:31.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Sneak 100]
+[11Jun2025 04:17:10.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Diamonds!]
+[11Jun2025 04:19:47.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=-37, z=-31} BlockPos{x=323, y=-36, z=-30}
+[11Jun2025 04:19:58.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pulpleito8> 80 20
+[11Jun2025 04:21:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Pulpleito8 a server operator
+[11Jun2025 04:21:34.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ByJean2812 a server operator
+[11Jun2025 04:23:09.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jun2025 04:24:42.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=-31, z=-17} BlockPos{x=304, y=-31, z=-17}
+[11Jun2025 04:24:42.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=-31, z=-17} BlockPos{x=304, y=-31, z=-17}
+[11Jun2025 04:24:55.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=297, y=-33, z=-19} BlockPos{x=295, y=-34, z=-21}
+[11Jun2025 04:24:55.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=297, y=-33, z=-19} BlockPos{x=295, y=-34, z=-21}
+[11Jun2025 04:24:55.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=297, y=-33, z=-19} BlockPos{x=295, y=-34, z=-21}
+[11Jun2025 04:24:55.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=293, y=-34, z=-23} BlockPos{x=295, y=-34, z=-21}
+[11Jun2025 04:24:55.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=-34, z=-23} BlockPos{x=292, y=-34, z=-22}
+[11Jun2025 04:24:55.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=-34, z=-23} BlockPos{x=292, y=-34, z=-22}
+[11Jun2025 04:24:55.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=-34, z=-23} BlockPos{x=292, y=-34, z=-22}
+[11Jun2025 04:24:55.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=-34, z=-23} BlockPos{x=292, y=-34, z=-22}
+[11Jun2025 04:25:23.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Sneak 100]
+[11Jun2025 04:25:44.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=-36, z=-39} BlockPos{x=299, y=-36, z=-40}
+[11Jun2025 04:26:54.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=-37, z=-42} BlockPos{x=323, y=-38, z=-42}
+[11Jun2025 04:26:54.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=-38, z=-42} BlockPos{x=324, y=-37, z=-42}
+[11Jun2025 04:26:54.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=-38, z=-42} BlockPos{x=324, y=-37, z=-42}
+[11Jun2025 04:26:54.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=-38, z=-42} BlockPos{x=324, y=-37, z=-42}
+[11Jun2025 04:27:01.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=320, y=-36, z=-39} BlockPos{x=319, y=-36, z=-39}
+[11Jun2025 04:27:02.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=319, y=-36, z=-39} BlockPos{x=319, y=-37, z=-39}
+[11Jun2025 04:27:14.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=314, y=-35, z=-40} BlockPos{x=313, y=-35, z=-41}
+[11Jun2025 04:27:15.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=-34, z=-43} BlockPos{x=311, y=-34, z=-43}
+[11Jun2025 04:27:18.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=-35, z=-44} BlockPos{x=306, y=-36, z=-46}
+[11Jun2025 04:27:33.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=261, y=-34, z=-38} BlockPos{x=262, y=-34, z=-36}
+[11Jun2025 04:27:36.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=258, y=-34, z=-33} BlockPos{x=255, y=-34, z=-32}
+[11Jun2025 04:27:43.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=249, y=-31, z=-37} BlockPos{x=248, y=-32, z=-36}
+[11Jun2025 04:28:10.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Diamonds!]
+[11Jun2025 04:29:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jun2025 04:30:37.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has completed the challenge [It Spreads]
+[11Jun2025 04:30:54.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jun2025 04:32:24.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jun2025 04:33:57.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was obliterated by a sonically-charged shriek
+[11Jun2025 04:33:57.447] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[11Jun2025 04:34:25.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[11Jun2025 04:34:35.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[11Jun2025 04:35:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Chain Death]
+[11Jun2025 04:35:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Warden
+[11Jun2025 04:35:20.139] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[11Jun2025 04:35:26.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[11Jun2025 04:35:48.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[11Jun2025 04:36:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was obliterated by a sonically-charged shriek
+[11Jun2025 04:36:06.997] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[11Jun2025 04:36:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jun2025 04:42:08.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[11Jun2025 04:43:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by ByJean2812
+[11Jun2025 04:43:50.831] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[11Jun2025 04:44:16.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jun2025 04:49:17.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
