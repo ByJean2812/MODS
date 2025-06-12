@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-06-12 02:05:10 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-12 01:49:50 +0000"
