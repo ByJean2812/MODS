@@ -778,3 +778,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jun2025 02:28:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the time to 1000]
 [12Jun2025 02:29:45.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was killed by Corpse Fly using magic
 [12Jun2025 02:29:45.089] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 02:36:43.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 02:39:37.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[12Jun2025 02:39:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
