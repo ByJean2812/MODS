@@ -891,3 +891,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jun2025 03:48:25.332] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [12Jun2025 03:48:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [12Jun2025 03:48:46.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has completed the challenge [Just a Flesh Wound]
+[12Jun2025 03:52:16.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:59:32.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
+[12Jun2025 03:59:36.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:59:41.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was doomed to fall by Mimic
+[12Jun2025 03:59:41.135] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:59:43.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
