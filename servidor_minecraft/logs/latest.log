@@ -781,3 +781,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jun2025 02:36:43.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
 [12Jun2025 02:39:37.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
 [12Jun2025 02:39:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[12Jun2025 02:40:29.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Death Will Not Be Enough]
+[12Jun2025 02:48:06.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [It's an Emu!!!]
