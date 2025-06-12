@@ -645,3 +645,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jun2025 23:38:56.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=-45, z=485} BlockPos{x=40, y=-45, z=485}
 [12Jun2025 23:38:56.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=-45, z=486} BlockPos{x=40, y=-45, z=485}
 [12Jun2025 23:38:56.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=-45, z=487} BlockPos{x=40, y=-45, z=485}
+[12Jun2025 23:47:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by The Horrors
+[12Jun2025 23:47:07.111] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 23:48:34.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=-43, z=456} BlockPos{x=51, y=-43, z=457}
+[12Jun2025 23:48:38.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=-46, z=463} BlockPos{x=47, y=-47, z=463}
+[12Jun2025 23:48:42.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=-44, z=466} BlockPos{x=53, y=-44, z=465}
+[12Jun2025 23:49:33.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was obliterated by a sonically-charged shriek
+[12Jun2025 23:49:33.664] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 23:49:34.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 23:50:00.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [We do a little trolling...]
+[12Jun2025 23:50:49.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
