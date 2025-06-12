@@ -783,3 +783,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jun2025 02:39:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
 [12Jun2025 02:40:29.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Death Will Not Be Enough]
 [12Jun2025 02:48:06.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [It's an Emu!!!]
+[12Jun2025 02:50:57.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the time to 1000]
+[12Jun2025 03:04:08.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[12Jun2025 03:04:08.187] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:05:24.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:58619] logged in with entity id 36340 at (-1.6316468550140377, 116.0, 516.6835476407023)
+[12Jun2025 03:05:24.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[12Jun2025 03:09:45.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=114, z=574} BlockPos{x=-18, y=113, z=574}
+[12Jun2025 03:09:45.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=114, z=575} BlockPos{x=-18, y=113, z=574}
