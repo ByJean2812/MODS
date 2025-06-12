@@ -133,6 +133,7 @@
       "minecraft:grove": "2025-06-08 22:50:45 +0000",
       "minecraft:forest": "2025-06-08 21:56:59 +0000",
       "minecraft:lush_caves": "2025-06-11 04:40:45 +0000",
+      "minecraft:ocean": "2025-06-11 05:04:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-08 22:39:40 +0000",
       "minecraft:deep_dark": "2025-06-11 04:24:47 +0000",
       "minecraft:meadow": "2025-06-11 04:01:38 +0000",
@@ -194,6 +195,7 @@
       "cooked_mutton": "2025-06-08 22:45:22 +0000",
       "cooked_beef": "2025-06-11 04:20:22 +0000",
       "apple": "2025-06-11 03:23:47 +0000",
+      "glow_berries": "2025-06-11 05:05:55 +0000",
       "cooked_rabbit": "2025-06-08 22:45:46 +0000"
     },
     "done": false
@@ -319,6 +321,78 @@
       "has_ingredient": "2025-06-11 03:24:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-11 05:05:42 +0000"
+    },
+    "done": false
   },
   "undead_revamp2:sugarcoat": {
     "criteria": {
