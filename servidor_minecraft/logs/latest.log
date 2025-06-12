@@ -842,3 +842,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jun2025 03:39:21.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
 [12Jun2025 03:39:21.629] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [12Jun2025 03:39:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:42:21.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:42:21.327] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:42:24.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:42:44.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:42:44.241] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:42:47.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:43:26.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:43:26.830] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:43:26.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[12Jun2025 03:43:30.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:43:38.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:43:38.128] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:43:40.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:43:40.977] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:45:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:45:02.140] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:45:04.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:45:07.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:45:07.540] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:45:11.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:45:18.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:45:18.331] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:45:22.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:45:30.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:45:30.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[12Jun2025 03:45:30.030] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:45:32.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:45:32.628] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:45:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:45:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:46:06.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:46:06.130] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:46:11.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:46:14.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:46:14.525] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:46:16.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:46:47.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:46:47.636] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:46:50.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:47:03.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:47:03.685] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:47:08.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:48:17.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:48:17.529] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:48:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:48:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:48:25.332] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:48:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:48:46.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has completed the challenge [Just a Flesh Wound]
