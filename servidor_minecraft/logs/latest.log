@@ -806,3 +806,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jun2025 03:24:13.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
 [12Jun2025 03:26:21.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by The Hunter
 [12Jun2025 03:26:21.685] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:33:54.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:34:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has completed the challenge [I'm not sugar coating it]
+[12Jun2025 03:34:58.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has completed the challenge [Your dad after a night out with his co-workers]
+[12Jun2025 03:35:54.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:35:54.481] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:36:05.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:36:20.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Chain Death]
+[12Jun2025 03:36:20.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:36:20.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:36:20.788] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:36:20.788] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:36:41.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 was kicked for floating too long!
+[12Jun2025 03:36:41.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Flying is not enabled on this server
+[12Jun2025 03:36:41.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
+[12Jun2025 03:36:47.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 was kicked for floating too long!
+[12Jun2025 03:36:47.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Flying is not enabled on this server
+[12Jun2025 03:36:47.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[12Jun2025 03:37:01.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:56609] logged in with entity id 49367 at (23.81203428904889, 98.32476691508852, 528.5205850493682)
+[12Jun2025 03:37:01.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
+[12Jun2025 03:37:24.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 was kicked for floating too long!
+[12Jun2025 03:37:25.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Flying is not enabled on this server
+[12Jun2025 03:37:25.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
+[12Jun2025 03:37:33.966] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4640f4a5[id=<null>,name=ByJean2812,properties={},legacy=false] (/127.171.90.144:48891) lost connection: Disconnected
+[12Jun2025 03:37:48.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:37809] logged in with entity id 50035 at (2.491730358974034, 49.12214039191265, 507.3017933465292)
+[12Jun2025 03:37:48.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[12Jun2025 03:37:49.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:52647] logged in with entity id 50039 at (16.076484124158323, 66.81821720215068, 511.90135514212085)
+[12Jun2025 03:37:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
+[12Jun2025 03:38:39.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:38:39.732] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jun2025 03:38:58.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 03:39:05.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:39:05.328] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:39:13.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jun2025 03:39:21.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ferrous Wroughtnaut
+[12Jun2025 03:39:21.629] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 03:39:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]

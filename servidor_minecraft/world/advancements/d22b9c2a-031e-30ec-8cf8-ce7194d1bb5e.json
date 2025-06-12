@@ -369,12 +369,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2025-06-12 02:48:06 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-06-12 01:39:19 +0000"
@@ -384,6 +378,18 @@
   "tombstone:adventure/use_preservation": {
     "criteria": {
       "has_magic_scroll": "2025-06-12 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-06-12 02:48:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-12 03:36:20 +0000"
     },
     "done": true
   },
