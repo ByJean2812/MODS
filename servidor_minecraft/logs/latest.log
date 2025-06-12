@@ -766,3 +766,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jun2025 02:14:54.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
 [12Jun2025 02:14:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
 [12Jun2025 02:14:54.522] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jun2025 02:22:37.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:57079] logged in with entity id 18776 at (3.9634188769465193, 118.00133597911214, 514.3937919687528)
+[12Jun2025 02:22:37.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[12Jun2025 02:23:52.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Cover Me with Diamonds]
+[12Jun2025 02:24:18.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=116, z=530} BlockPos{x=-16, y=115, z=527}
+[12Jun2025 02:24:18.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=116, z=530} BlockPos{x=-16, y=115, z=527}
+[12Jun2025 02:24:18.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=116, z=530} BlockPos{x=-16, y=115, z=527}
+[12Jun2025 02:25:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jun2025 02:27:42.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was shot by Skeleton
+[12Jun2025 02:27:42.385] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jun2025 02:28:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the time to 1000]
+[12Jun2025 02:29:45.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was killed by Corpse Fly using magic
+[12Jun2025 02:29:45.089] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
