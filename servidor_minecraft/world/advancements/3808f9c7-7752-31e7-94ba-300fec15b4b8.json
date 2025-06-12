@@ -129,6 +129,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-06-08 22:44:00 +0000",
       "quark:glimmering_weald": "2025-06-11 04:16:06 +0000",
+      "minecraft:cherry_grove": "2025-06-12 02:07:00 +0000",
       "minecraft:birch_forest": "2025-06-08 23:01:20 +0000",
       "minecraft:dark_forest": "2025-06-11 04:10:42 +0000",
       "minecraft:river": "2025-06-08 22:43:29 +0000",
@@ -140,7 +141,9 @@
       "minecraft:ocean": "2025-06-08 22:43:37 +0000",
       "minecraft:frozen_peaks": "2025-06-11 04:09:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-08 22:53:14 +0000",
-      "minecraft:deep_dark": "2025-06-11 04:12:39 +0000"
+      "minecraft:deep_dark": "2025-06-11 04:12:39 +0000",
+      "minecraft:savanna": "2025-06-12 02:07:12 +0000",
+      "minecraft:plains": "2025-06-12 02:07:07 +0000"
     },
     "done": false
   },
@@ -365,6 +368,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:14:41 +0000"
+    },
+    "done": false
+  },
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-06-12 02:05:10 +0000"
@@ -374,6 +449,30 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-12 01:49:50 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2025-06-12 02:08:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-12 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-12 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-12 02:13:10 +0000"
     },
     "done": true
   },
