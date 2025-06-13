@@ -713,3 +713,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 02:26:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 blew up
 [13Jun2025 02:26:55.332] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [13Jun2025 02:26:56.667] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
+[13Jun2025 02:38:20.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jun2025 02:39:15.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Amateur Archaeologist]
+[13Jun2025 02:55:53.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jun2025 02:56:56.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
+[13Jun2025 02:56:56.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
