@@ -703,3 +703,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 01:09:50.813] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
 [13Jun2025 01:12:59.972] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-1, y=116, z=517} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [13Jun2025 01:19:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to clear]
+[13Jun2025 02:07:47.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Enderman
+[13Jun2025 02:07:47.525] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 02:07:48.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
