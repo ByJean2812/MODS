@@ -628,3 +628,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 00:38:21.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Vindicator
 [13Jun2025 00:38:21.039] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [13Jun2025 00:38:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jun2025 00:39:11.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jun2025 00:39:17.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was shot by Mutant Skeleton
+[13Jun2025 00:39:17.540] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:39:22.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jun2025 00:39:55.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was shot by Mutant Skeleton
+[13Jun2025 00:39:56.156] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 00:40:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was shot by Mutant Skeleton
+[13Jun2025 00:40:10.867] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:40:12.318] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
+[13Jun2025 00:40:19.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[13Jun2025 00:40:19.912] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
+[13Jun2025 00:40:25.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was shot by Mutant Skeleton
+[13Jun2025 00:40:25.743] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:40:26.810] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
+[13Jun2025 00:42:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Vindicator
+[13Jun2025 00:42:43.228] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 00:42:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[13Jun2025 00:42:50.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Vindicator
+[13Jun2025 00:42:50.174] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:43:21.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Vindicator
+[13Jun2025 00:43:21.236] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
