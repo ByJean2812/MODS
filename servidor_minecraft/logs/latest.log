@@ -718,3 +718,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 02:55:53.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [13Jun2025 02:56:56.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
 [13Jun2025 02:56:56.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
+[13Jun2025 03:10:35.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=-42, z=431} BlockPos{x=34, y=-43, z=431}
+[13Jun2025 03:10:42.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=-42, z=436} BlockPos{x=41, y=-42, z=436}
+[13Jun2025 03:10:42.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=-42, z=436} BlockPos{x=41, y=-42, z=436}
+[13Jun2025 03:10:42.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=-42, z=436} BlockPos{x=41, y=-42, z=436}
+[13Jun2025 03:10:42.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=-42, z=436} BlockPos{x=41, y=-42, z=436}
+[13Jun2025 03:10:42.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=-42, z=436} BlockPos{x=41, y=-42, z=436}
+[13Jun2025 03:11:14.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=-32, z=443} BlockPos{x=46, y=-32, z=444}
+[13Jun2025 03:11:23.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=54, y=-32, z=442} BlockPos{x=54, y=-31, z=442}
