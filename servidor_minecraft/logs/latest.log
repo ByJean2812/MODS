@@ -618,3 +618,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 00:25:39.980] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [13Jun2025 00:25:44.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
 [13Jun2025 00:25:53.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Ambush]
+[13Jun2025 00:30:49.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Fortuitous Militia]
+[13Jun2025 00:31:04.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Bone Crusher]
+[13Jun2025 00:35:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Vindicator
+[13Jun2025 00:35:38.281] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 00:35:46.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Vindicator
+[13Jun2025 00:35:46.455] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:35:56.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jun2025 00:38:21.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Vindicator
+[13Jun2025 00:38:21.039] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:38:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]

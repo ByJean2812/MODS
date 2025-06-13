@@ -269,6 +269,7 @@
       "minecraft:skeleton": "2025-06-08 22:55:31 +0000",
       "minecraft:vindicator": "2025-06-13 00:24:22 +0000",
       "minecraft:spider": "2025-06-11 04:08:31 +0000",
+      "minecraft:evoker": "2025-06-13 00:26:11 +0000",
       "minecraft:enderman": "2025-06-12 02:14:10 +0000",
       "minecraft:zombie": "2025-06-11 03:23:55 +0000"
     },
@@ -439,6 +440,24 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-06-13 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-06-13 00:26:11 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-13 00:31:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-13 00:30:49 +0000"
     },
     "done": true
   },
