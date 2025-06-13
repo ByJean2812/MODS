@@ -706,3 +706,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 02:07:47.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Enderman
 [13Jun2025 02:07:47.525] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [13Jun2025 02:07:48.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
+[13Jun2025 02:25:01.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Strong or Careful]
+[13Jun2025 02:25:01.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 blew up
+[13Jun2025 02:25:01.330] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 02:26:02.226] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
+[13Jun2025 02:26:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 blew up
+[13Jun2025 02:26:55.332] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 02:26:56.667] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
