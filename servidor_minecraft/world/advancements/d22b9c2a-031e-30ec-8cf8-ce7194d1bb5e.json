@@ -202,6 +202,7 @@
       "apple": "2025-06-11 03:23:47 +0000",
       "cooked_cod": "2025-06-12 01:49:26 +0000",
       "bread": "2025-06-12 02:51:50 +0000",
+      "golden_apple": "2025-06-13 00:51:40 +0000",
       "glow_berries": "2025-06-11 05:05:55 +0000",
       "beetroot": "2025-06-12 02:02:51 +0000",
       "cooked_rabbit": "2025-06-08 22:45:46 +0000",
@@ -271,6 +272,7 @@
       "minecraft:spider": "2025-06-11 04:08:31 +0000",
       "minecraft:evoker": "2025-06-13 00:26:11 +0000",
       "minecraft:enderman": "2025-06-12 02:14:10 +0000",
+      "minecraft:vex": "2025-06-13 00:50:07 +0000",
       "minecraft:zombie": "2025-06-11 03:23:55 +0000"
     },
     "done": false
@@ -452,6 +454,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-06-13 00:31:04 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2025-06-13 00:54:17 +0000"
     },
     "done": true
   },

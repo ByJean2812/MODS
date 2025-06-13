@@ -649,3 +649,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 00:42:50.174] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [13Jun2025 00:43:21.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Vindicator
 [13Jun2025 00:43:21.236] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:50:07.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/14096, l='ServerLevel[world]', x=76.79, y=89.68, z=1038.68] died: Kex the Mean was slain by Pulpleito8
+[13Jun2025 00:52:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 00:52:54.530] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:53:45.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Umvuthi, the Sunbird
+[13Jun2025 00:53:45.847] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:54:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 00:54:06.827] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 00:54:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Birds of a Feather]
+[13Jun2025 00:54:41.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 00:54:41.882] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:55:16.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was killed by Umvuthana using magic
+[13Jun2025 00:55:16.078] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 00:55:32.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 00:55:32.226] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:56:04.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 burned to death
+[13Jun2025 00:56:04.542] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 00:56:24.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 00:56:24.232] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:56:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 00:56:46.327] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 00:56:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Umvuthana
+[13Jun2025 00:56:57.083] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 00:57:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has completed the challenge [Praise the Sun]
