@@ -672,3 +672,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 00:56:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Umvuthana
 [13Jun2025 00:56:57.083] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [13Jun2025 00:57:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has completed the challenge [Praise the Sun]
+[13Jun2025 01:02:16.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was struck with lightning by Lightning Dragon
+[13Jun2025 01:02:16.386] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 01:03:33.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Lightning Dragon
+[13Jun2025 01:03:33.282] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 01:04:15.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was struck with lightning by Lightning Dragon
+[13Jun2025 01:04:15.983] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 01:04:51.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was energized by Lightning Dragon
+[13Jun2025 01:04:51.634] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 01:05:24.047] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jun2025 01:05:24.048] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jun2025 01:05:24.048] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jun2025 01:05:28.687] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jun2025 01:05:28.687] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jun2025 01:05:28.688] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jun2025 01:05:28.688] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jun2025 01:05:35.493] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jun2025 01:05:35.494] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jun2025 01:05:35.494] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jun2025 01:05:35.494] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jun2025 01:05:39.494] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jun2025 01:05:43.495] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
+[13Jun2025 01:06:04.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ghost
+[13Jun2025 01:06:04.448] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jun2025 01:07:23.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 liquified to Fanta juice
+[13Jun2025 01:07:23.194] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jun2025 01:07:34.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[13Jun2025 01:09:10.382] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/13139, l='ServerLevel[world]', x=-55.56, y=36.06, z=519.41, removed=DISCARDED]
