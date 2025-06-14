@@ -628,3 +628,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 22:20:03.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
 [14Jun2025 22:24:43.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Ol' Betsy]
 [14Jun2025 22:25:35.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 22:27:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Skeleton
+[14Jun2025 22:27:12.445] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 22:27:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 22:27:18.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 22:27:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Skeleton
+[14Jun2025 22:27:59.036] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 22:28:02.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 22:28:03.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 22:28:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was shot by Skeleton
+[14Jun2025 22:28:08.238] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jun2025 22:28:16.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 22:29:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was shot by Skeleton
+[14Jun2025 22:29:24.985] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jun2025 22:29:29.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 22:30:06.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Skeleton
+[14Jun2025 22:30:06.138] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 22:30:10.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 22:30:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Skeleton
+[14Jun2025 22:30:13.740] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jun2025 22:30:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 22:30:35.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Skeleton
+[14Jun2025 22:30:35.633] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 22:30:50.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 22:31:37.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was shot by Skeleton
+[14Jun2025 22:31:37.193] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 22:31:40.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 22:32:41.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Zombie
+[14Jun2025 22:32:41.339] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jun2025 22:32:45.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]

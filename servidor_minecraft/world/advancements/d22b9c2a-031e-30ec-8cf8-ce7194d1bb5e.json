@@ -275,7 +275,9 @@
       "minecraft:spider": "2025-06-11 04:08:31 +0000",
       "minecraft:creeper": "2025-06-14 05:18:33 +0000",
       "minecraft:evoker": "2025-06-13 00:26:11 +0000",
+      "minecraft:phantom": "2025-06-14 22:30:29 +0000",
       "minecraft:zombified_piglin": "2025-06-14 20:35:46 +0000",
+      "minecraft:witch": "2025-06-14 22:26:19 +0000",
       "minecraft:enderman": "2025-06-12 02:14:10 +0000",
       "minecraft:vex": "2025-06-13 00:50:07 +0000",
       "minecraft:zombie": "2025-06-11 03:23:55 +0000"
@@ -569,6 +571,12 @@
       "hunted_0": "2025-06-14 22:10:21 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-14 22:30:29 +0000"
+    },
+    "done": false
   },
   "endrem:main/eyes_recipe": {
     "criteria": {
