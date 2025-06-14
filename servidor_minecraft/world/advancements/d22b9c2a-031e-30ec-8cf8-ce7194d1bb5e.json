@@ -128,6 +128,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-11 04:07:33 +0000",
+      "minecraft:taiga": "2025-06-14 21:10:41 +0000",
       "quark:glimmering_weald": "2025-06-11 04:23:09 +0000",
       "minecraft:cherry_grove": "2025-06-12 02:06:53 +0000",
       "minecraft:birch_forest": "2025-06-08 22:39:18 +0000",

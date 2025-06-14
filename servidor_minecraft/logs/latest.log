@@ -621,3 +621,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 21:06:09.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Where Is The Stone Pen?]
 [14Jun2025 21:08:29.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-209, y=21, z=543} BlockPos{x=-205, y=22, z=543}
 [14Jun2025 21:08:29.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=21, z=543} BlockPos{x=-205, y=22, z=543}
+[14Jun2025 21:14:55.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 21:22:24.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [It Belongs in a Museum]
