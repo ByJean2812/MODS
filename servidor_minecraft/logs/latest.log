@@ -655,3 +655,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 04:26:17.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=-26, z=468} BlockPos{x=20, y=-27, z=467}
 [14Jun2025 04:26:23.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=-21, z=464} BlockPos{x=15, y=-22, z=463}
 [14Jun2025 04:27:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 04:36:58.358] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5314, l='ServerLevel[world]', x=-193.66, y=90.63, z=815.43] died, message: 'Weaponsmith tried to swim in lava'
+[14Jun2025 04:43:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Enderman
+[14Jun2025 04:43:20.326] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 04:44:58.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Rhinoceros
+[14Jun2025 04:44:58.626] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 04:46:36.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/3076, l='ServerLevel[world]', x=-160.16, y=101.94, z=815.70] died, message: 'Beekeeper was slain by Equestrian'
+[14Jun2025 04:46:36.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
