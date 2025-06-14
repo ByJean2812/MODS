@@ -621,3 +621,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 03:54:26.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 drowned
 [14Jun2025 03:54:26.319] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [14Jun2025 03:56:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 03:58:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 04:04:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 04:12:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Ice Bucket Challenge]
+[14Jun2025 04:12:56.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-1, y=116, z=517} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
