@@ -539,6 +539,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-06-14 21:25:18 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "lost_eye": "2025-06-14 20:56:24 +0000"

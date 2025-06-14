@@ -539,5 +539,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-06-14 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-14 21:22:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
