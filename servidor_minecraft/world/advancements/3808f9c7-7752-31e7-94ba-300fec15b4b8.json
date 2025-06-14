@@ -544,6 +544,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-14 21:06:09 +0000"
+    },
+    "done": true
+  },
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-06-14 20:56:24 +0000"

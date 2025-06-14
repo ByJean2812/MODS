@@ -617,3 +617,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 20:57:47.775] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [14Jun2025 20:58:21.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pulpleito8> tp Pulpleito8
 [14Jun2025 20:58:41.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 21:04:37.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Gamerule playersSleepingPercentage is now set to: 0]
+[14Jun2025 21:06:09.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Where Is The Stone Pen?]
+[14Jun2025 21:08:29.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-209, y=21, z=543} BlockPos{x=-205, y=22, z=543}
+[14Jun2025 21:08:29.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=21, z=543} BlockPos{x=-205, y=22, z=543}
