@@ -489,9 +489,27 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-06-14 05:23:48 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-06-14 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-06-14 05:20:45 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-06-14 05:23:48 +0000"
     },
     "done": true
   },

@@ -667,3 +667,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 05:16:58.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [14Jun2025 05:17:58.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
 [14Jun2025 05:18:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 05:19:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was blown up by Intruder
+[14Jun2025 05:19:35.074] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jun2025 05:19:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 05:20:40.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[14Jun2025 05:20:40.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[14Jun2025 05:20:45.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Vampire Slayer]
+[14Jun2025 05:21:13.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:43109] logged in with entity id 39515 at (-136.30000001192093, 23.688183411656954, 369.69999998807907)
+[14Jun2025 05:21:13.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[14Jun2025 05:23:48.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [The Beginning of An Adventure]
+[14Jun2025 05:23:48.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Need A Map?]
