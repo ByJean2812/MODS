@@ -539,13 +539,13 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/bestiary": {
+  "endrem:main/root": {
     "criteria": {
-      "bestiary": "2025-06-14 21:25:18 +0000"
+      "lost_eye": "2025-06-14 20:56:24 +0000"
     },
     "done": true
   },
-  "endrem:main/root": {
+  "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-06-14 20:56:24 +0000"
     },
@@ -557,9 +557,21 @@
     },
     "done": true
   },
-  "endrem:main/lost_eye": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "lost_eye": "2025-06-14 20:56:24 +0000"
+      "bestiary": "2025-06-14 21:25:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-06-14 21:37:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-06-14 21:43:08 +0000"
     },
     "done": true
   },
