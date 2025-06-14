@@ -8103,3 +8103,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 22:42:29.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 22:47:29.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 22:47:29.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 22:52:29.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 22:52:29.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 22:53:21.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Skeleton
+[14Jun2025 22:53:21.292] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-834, y:135, z:1040, dim:minecraft:overworld]
+[14Jun2025 22:53:21.302] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 22:53:22.928] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[14Jun2025 22:57:28.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 22:57:29.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

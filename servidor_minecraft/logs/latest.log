@@ -657,3 +657,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 22:32:41.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Zombie
 [14Jun2025 22:32:41.339] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [14Jun2025 22:32:45.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 22:53:21.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Skeleton
+[14Jun2025 22:53:21.302] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
