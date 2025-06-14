@@ -481,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-14 04:53:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-06-14 03:51:30 +0000"
