@@ -625,3 +625,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 04:04:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [14Jun2025 04:12:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Ice Bucket Challenge]
 [14Jun2025 04:12:56.157] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-1, y=116, z=517} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Jun2025 04:19:17.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=-49, z=473} BlockPos{x=38, y=-49, z=474}
+[14Jun2025 04:19:42.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=-41, z=461} BlockPos{x=14, y=-42, z=460}
+[14Jun2025 04:20:02.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=-40, z=444} BlockPos{x=13, y=-40, z=444}
+[14Jun2025 04:20:05.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=-40, z=439} BlockPos{x=11, y=-39, z=443}
+[14Jun2025 04:20:54.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=-36, z=461} BlockPos{x=12, y=-36, z=462}
+[14Jun2025 04:21:16.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=-47, z=479} BlockPos{x=-20, y=-48, z=480}
+[14Jun2025 04:21:17.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=-46, z=480} BlockPos{x=-22, y=-47, z=480}
+[14Jun2025 04:21:17.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=-46, z=480} BlockPos{x=-22, y=-47, z=480}
+[14Jun2025 04:21:17.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=-46, z=480} BlockPos{x=-22, y=-47, z=480}
+[14Jun2025 04:21:17.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=-46, z=480} BlockPos{x=-22, y=-47, z=480}
+[14Jun2025 04:21:17.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=-46, z=480} BlockPos{x=-22, y=-47, z=480}
+[14Jun2025 04:21:31.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=-42, z=474} BlockPos{x=-28, y=-43, z=474}
+[14Jun2025 04:22:02.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=-55, z=497} BlockPos{x=-15, y=-54, z=497}
+[14Jun2025 04:22:11.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=-54, z=496} BlockPos{x=-6, y=-54, z=495}
+[14Jun2025 04:22:18.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=-51, z=496} BlockPos{x=-12, y=-50, z=496}
+[14Jun2025 04:23:29.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=-41, z=469} BlockPos{x=-26, y=-41, z=469}
+[14Jun2025 04:23:30.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=-39, z=472} BlockPos{x=-24, y=-40, z=473}
+[14Jun2025 04:25:23.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=-29, z=488} BlockPos{x=9, y=-30, z=486}
+[14Jun2025 04:25:23.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=-29, z=488} BlockPos{x=9, y=-30, z=486}
+[14Jun2025 04:25:23.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=-29, z=488} BlockPos{x=9, y=-30, z=488}
+[14Jun2025 04:25:27.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=-27, z=487} BlockPos{x=16, y=-27, z=486}
+[14Jun2025 04:25:27.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=-27, z=487} BlockPos{x=16, y=-27, z=486}
+[14Jun2025 04:25:28.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=-27, z=486} BlockPos{x=16, y=-27, z=485}
+[14Jun2025 04:25:28.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=-27, z=486} BlockPos{x=16, y=-27, z=485}
+[14Jun2025 04:25:34.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=-28, z=475} BlockPos{x=10, y=-29, z=475}
+[14Jun2025 04:25:52.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=-25, z=464} BlockPos{x=15, y=-25, z=464}
+[14Jun2025 04:26:06.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Vampire Slayer]
+[14Jun2025 04:26:17.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=-26, z=468} BlockPos{x=20, y=-27, z=467}
+[14Jun2025 04:26:23.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=-21, z=464} BlockPos{x=15, y=-22, z=463}
+[14Jun2025 04:27:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
