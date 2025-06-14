@@ -611,3 +611,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 20:34:49.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:42497] logged in with entity id 2478 at (5.4673178184381825, 116.0, 525.2284443551214)
 [14Jun2025 20:34:49.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
 [14Jun2025 20:35:30.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to clear]
+[14Jun2025 20:56:24.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Need A Map?]
+[14Jun2025 20:56:24.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [The Beginning of An Adventure]
+[14Jun2025 20:57:47.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Cave Spider
+[14Jun2025 20:57:47.775] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 20:58:21.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pulpleito8> tp Pulpleito8
+[14Jun2025 20:58:41.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
