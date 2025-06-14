@@ -677,3 +677,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 05:21:13.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
 [14Jun2025 05:23:48.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [The Beginning of An Adventure]
 [14Jun2025 05:23:48.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Need A Map?]
+[14Jun2025 05:33:19.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 05:36:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was shot by Pumpkinhead
+[14Jun2025 05:36:16.664] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jun2025 05:36:20.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 05:37:50.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
