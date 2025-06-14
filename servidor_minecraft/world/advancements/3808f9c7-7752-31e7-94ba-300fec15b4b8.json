@@ -575,5 +575,17 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-14 22:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-14 22:10:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
