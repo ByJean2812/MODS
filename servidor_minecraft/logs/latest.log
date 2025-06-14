@@ -604,3 +604,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 03:44:40.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:55475] logged in with entity id 2766 at (-0.7733149404480022, 116.875, 516.1492426779404)
 [14Jun2025 03:44:40.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
 [14Jun2025 03:45:23.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 03:48:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[14Jun2025 03:48:44.098] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 03:48:53.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 03:50:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 drowned
+[14Jun2025 03:50:01.070] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 03:50:04.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[14Jun2025 03:50:53.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 drowned
+[14Jun2025 03:50:53.373] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 03:51:30.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [We do a little trolling...]
+[14Jun2025 03:51:31.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 drowned
+[14Jun2025 03:51:31.374] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 03:52:40.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 burned to death
+[14Jun2025 03:52:40.072] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jun2025 03:53:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jun2025 03:54:26.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 drowned
+[14Jun2025 03:54:26.319] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jun2025 03:56:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]

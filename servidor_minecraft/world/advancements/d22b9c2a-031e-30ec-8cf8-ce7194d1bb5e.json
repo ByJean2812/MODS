@@ -439,78 +439,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 02:56:34 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-06-13 00:24:06 +0000"
@@ -523,21 +451,15 @@
     },
     "done": false
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-13 00:30:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-06-13 00:31:04 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-06-13 02:39:15 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-06-13 00:57:18 +0000"
     },
     "done": true
   },
@@ -547,9 +469,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "coded_trigger": "2025-06-13 00:30:49 +0000"
+      "barako": "2025-06-13 00:57:18 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-13 02:39:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-06-14 03:51:30 +0000"
     },
     "done": true
   },
