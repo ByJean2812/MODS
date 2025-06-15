@@ -7958,3 +7958,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 23:11:37.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30082, l='ServerLevel[world]', x=-115.48, y=-20.00, z=516.82] died: Toxic Slime was killed
 [15Jun2025 23:11:48.934] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=-508, y=80, z=583} at Chest with:minecraft:chests/bastion_bridge
 [15Jun2025 23:12:05.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30280, l='ServerLevel[world]', x=-197.93, y=-20.00, z=537.33] died: Toxic Slime was killed
+[15Jun2025 23:12:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 23:12:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[15Jun2025 23:12:34.865] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-169, y:46, z:539, dim:minecraft:the_nether]
+[15Jun2025 23:12:34.872] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 23:12:38.121] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[15Jun2025 23:12:45.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:12:49.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 23:12:49.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 23:12:56.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:12:57.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30492, l='ServerLevel[world]', x=-147.64, y=-20.00, z=469.02] died: Toxic Slime was killed
+[15Jun2025 23:13:10.750] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-519, y=69, z=357} at Chest with:minecraft:chests/bastion_other
+[15Jun2025 23:13:17.292] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=-439, y=73, z=888} at Chest with:minecraft:chests/bastion_other
+[15Jun2025 23:14:42.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [War Pigs]
+[15Jun2025 23:14:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [War Pigs]
+[15Jun2025 23:14:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Who is Cutting Onions?]
+[15Jun2025 23:16:13.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Hidden in the Depths]
+[15Jun2025 23:17:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:17:49.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 23:17:49.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 23:20:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Piglin Brute
+[15Jun2025 23:20:45.863] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-203, y:47, z:558, dim:minecraft:the_nether]
+[15Jun2025 23:20:45.874] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 23:20:47.596] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[15Jun2025 23:20:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:20:52.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [A New Protector...]
+[15Jun2025 23:21:52.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Hidden in the Depths]
+[15Jun2025 23:22:15.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]

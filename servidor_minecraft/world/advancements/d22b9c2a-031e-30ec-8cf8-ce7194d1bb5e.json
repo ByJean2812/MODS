@@ -279,14 +279,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-08 22:55:31 +0000",
+      "minecraft:ghast": "2025-06-15 23:14:29 +0000",
       "minecraft:vindicator": "2025-06-13 00:24:22 +0000",
       "minecraft:spider": "2025-06-11 04:08:31 +0000",
+      "minecraft:piglin_brute": "2025-06-15 23:12:13 +0000",
       "minecraft:creeper": "2025-06-14 05:18:33 +0000",
       "minecraft:evoker": "2025-06-13 00:26:11 +0000",
       "minecraft:phantom": "2025-06-14 22:30:29 +0000",
       "minecraft:zombified_piglin": "2025-06-14 20:35:46 +0000",
       "minecraft:witch": "2025-06-14 22:26:19 +0000",
       "minecraft:husk": "2025-06-15 21:00:59 +0000",
+      "minecraft:piglin": "2025-06-15 23:10:47 +0000",
       "minecraft:enderman": "2025-06-12 02:14:10 +0000",
       "minecraft:vex": "2025-06-13 00:50:07 +0000",
       "minecraft:zombie": "2025-06-11 03:23:55 +0000",
@@ -643,6 +646,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-06-15 23:10:03 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-06-15 22:55:37 +0000"
@@ -658,6 +667,18 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-06-15 22:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-15 23:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-15 23:11:35 +0000"
     },
     "done": true
   },

@@ -280,15 +280,18 @@
     "criteria": {
       "minecraft:pillager": "2025-06-15 18:45:36 +0000",
       "minecraft:skeleton": "2025-06-08 23:08:40 +0000",
+      "minecraft:ghast": "2025-06-15 23:15:48 +0000",
       "minecraft:vindicator": "2025-06-13 00:25:53 +0000",
       "minecraft:magma_cube": "2025-06-13 00:09:50 +0000",
       "minecraft:spider": "2025-06-14 05:10:08 +0000",
+      "minecraft:piglin_brute": "2025-06-15 23:11:21 +0000",
       "minecraft:creeper": "2025-06-14 05:20:04 +0000",
       "minecraft:slime": "2025-06-15 23:05:17 +0000",
       "minecraft:phantom": "2025-06-14 23:13:08 +0000",
       "minecraft:witch": "2025-06-14 20:46:06 +0000",
       "minecraft:husk": "2025-06-15 21:00:57 +0000",
       "minecraft:cave_spider": "2025-06-14 05:12:53 +0000",
+      "minecraft:piglin": "2025-06-15 23:11:05 +0000",
       "minecraft:enderman": "2025-06-13 02:07:45 +0000",
       "minecraft:silverfish": "2025-06-14 04:19:48 +0000",
       "minecraft:zombie": "2025-06-08 22:16:16 +0000",
@@ -687,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-15 23:14:49 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-06-15 23:05:04 +0000"
@@ -723,9 +732,21 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-15 23:14:42 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu_dodge": {
     "criteria": {
       "ex": "2025-06-15 22:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-15 23:10:40 +0000"
     },
     "done": true
   },
@@ -734,6 +755,12 @@
       "incendium:toxic_heap": "2025-06-15 23:05:04 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-15 23:16:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

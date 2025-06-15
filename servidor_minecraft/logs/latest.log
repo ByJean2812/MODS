@@ -656,3 +656,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 23:11:35.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Those Were the Days]
 [15Jun2025 23:11:37.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30082, l='ServerLevel[world]', x=-115.48, y=-20.00, z=516.82] died: Toxic Slime was killed
 [15Jun2025 23:12:05.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30280, l='ServerLevel[world]', x=-197.93, y=-20.00, z=537.33] died: Toxic Slime was killed
+[15Jun2025 23:12:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 23:12:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[15Jun2025 23:12:34.872] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 23:12:45.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:12:56.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:12:57.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30492, l='ServerLevel[world]', x=-147.64, y=-20.00, z=469.02] died: Toxic Slime was killed
+[15Jun2025 23:14:42.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [War Pigs]
+[15Jun2025 23:14:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [War Pigs]
+[15Jun2025 23:14:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Who is Cutting Onions?]
+[15Jun2025 23:16:13.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Hidden in the Depths]
+[15Jun2025 23:17:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:20:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Piglin Brute
+[15Jun2025 23:20:45.874] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 23:20:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:20:52.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [A New Protector...]
+[15Jun2025 23:21:52.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Hidden in the Depths]
+[15Jun2025 23:22:15.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
