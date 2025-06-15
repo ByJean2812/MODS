@@ -591,3 +591,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 18:15:26.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3341ms or 66 ticks behind
 [15Jun2025 18:32:02.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4705, l='ServerLevel[world]', x=1.50, y=116.00, z=515.50] died, message: 'Villager was killed'
 [15Jun2025 18:34:11.973] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4964, l='ServerLevel[world]', x=1.50, y=116.00, z=515.50] died, message: 'Villager was killed'
+[15Jun2025 18:43:07.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:58785] logged in with entity id 6966 at (-15.050021305909093, 108.0, 521.9620529241362)
+[15Jun2025 18:43:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[15Jun2025 18:43:32.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Where Is The Stone Pen?]
+[15Jun2025 18:45:36.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Voluntary Exile]

@@ -587,5 +587,17 @@
     },
     "done": false
   },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2025-06-15 18:43:32 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-15 18:43:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
