@@ -595,3 +595,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 18:43:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
 [15Jun2025 18:43:32.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Where Is The Stone Pen?]
 [15Jun2025 18:45:36.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Voluntary Exile]
+[15Jun2025 18:53:26.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[15Jun2025 18:53:45.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4423ms or 88 ticks behind
+[15Jun2025 18:54:03.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[15Jun2025 18:54:21.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[15Jun2025 18:54:40.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4348ms or 86 ticks behind
+[15Jun2025 18:55:00.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4970ms or 99 ticks behind
+[15Jun2025 18:55:19.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4017ms or 80 ticks behind
+[15Jun2025 18:55:37.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[15Jun2025 18:55:49.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Skeleton
+[15Jun2025 18:55:49.538] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 18:55:55.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
+[15Jun2025 18:56:12.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
