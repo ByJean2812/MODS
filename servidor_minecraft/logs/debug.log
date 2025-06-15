@@ -7752,3 +7752,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 15:52:14.000] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-811, y:79, z:1066, dim:minecraft:overworld]
 [15Jun2025 15:52:14.011] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [15Jun2025 15:52:15.452] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[15Jun2025 15:55:10.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 15:55:11.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 15:58:23.083] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jun2025 15:58:23.084] [Worker-Main-12/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jun2025 15:58:23.084] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jun2025 15:58:23.084] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jun2025 15:58:23.085] [Worker-Main-12/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jun2025 15:58:23.085] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jun2025 15:58:23.085] [Worker-Main-12/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jun2025 15:58:23.086] [Worker-Main-12/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jun2025 15:58:23.086] [Worker-Main-12/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[15Jun2025 15:58:23.088] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.088] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.088] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.088] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.088] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.088] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.088] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 15:58:23.089] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jun2025 16:00:10.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 16:00:11.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 16:03:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Nightmare Stalker
+[15Jun2025 16:03:31.398] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-784, y:144, z:1061, dim:minecraft:overworld]
+[15Jun2025 16:03:31.414] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 16:03:38.107] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
