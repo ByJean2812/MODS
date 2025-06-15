@@ -633,3 +633,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 23:00:46.025] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [15Jun2025 23:00:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
 [15Jun2025 23:01:31.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20783, l='ServerLevel[world]', x=-0.82, y=-20.00, z=183.67] died: Toxic Slime was killed
+[15Jun2025 23:02:56.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 23:03:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 23:05:01.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26614, l='ServerLevel[world]', x=59.01, y=-20.00, z=306.06] died: Toxic Slime was killed
+[15Jun2025 23:05:04.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Toxic Personality]
+[15Jun2025 23:05:04.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Radioactive]
+[15Jun2025 23:05:17.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28539, l='ServerLevel[world]', x=-2.69, y=72.00, z=228.11] died: Toxic Slime was slain by ByJean2812
+[15Jun2025 23:05:18.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Radioactive]
+[15Jun2025 23:06:09.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/28000, l='ServerLevel[world]', x=-14.26, y=-20.00, z=281.74] died: Toxic Slime was killed
+[15Jun2025 23:06:54.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 23:08:24.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-103, y=96, z=352} BlockPos{x=-103, y=96, z=351}
+[15Jun2025 23:08:25.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-103, y=96, z=351} BlockPos{x=-103, y=96, z=350}
+[15Jun2025 23:08:25.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-103, y=96, z=351} BlockPos{x=-103, y=96, z=350}
+[15Jun2025 23:08:59.682] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[15Jun2025 23:09:02.702] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=168, z=-18}
+[15Jun2025 23:09:13.353] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[15Jun2025 23:10:03.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Toxic Personality]
+[15Jun2025 23:10:11.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29512, l='ServerLevel[world]', x=-129.26, y=-20.00, z=363.74] died: Toxic Slime was killed
+[15Jun2025 23:10:25.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 23:10:34.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 23:10:40.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Those Were the Days]
+[15Jun2025 23:11:35.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Those Were the Days]
+[15Jun2025 23:11:37.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30082, l='ServerLevel[world]', x=-115.48, y=-20.00, z=516.82] died: Toxic Slime was killed
+[15Jun2025 23:12:05.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30280, l='ServerLevel[world]', x=-197.93, y=-20.00, z=537.33] died: Toxic Slime was killed

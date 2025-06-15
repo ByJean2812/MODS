@@ -289,7 +289,8 @@
       "minecraft:husk": "2025-06-15 21:00:59 +0000",
       "minecraft:enderman": "2025-06-12 02:14:10 +0000",
       "minecraft:vex": "2025-06-13 00:50:07 +0000",
-      "minecraft:zombie": "2025-06-11 03:23:55 +0000"
+      "minecraft:zombie": "2025-06-11 03:23:55 +0000",
+      "quark:foxhound": "2025-06-15 23:01:22 +0000"
     },
     "done": false
   },
@@ -636,6 +637,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-06-15 23:05:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-06-15 22:55:37 +0000"
@@ -653,6 +660,12 @@
       "acacia_blossom": "2025-06-15 22:51:19 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-06-15 23:05:18 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

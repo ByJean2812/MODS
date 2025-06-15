@@ -284,6 +284,7 @@
       "minecraft:magma_cube": "2025-06-13 00:09:50 +0000",
       "minecraft:spider": "2025-06-14 05:10:08 +0000",
       "minecraft:creeper": "2025-06-14 05:20:04 +0000",
+      "minecraft:slime": "2025-06-15 23:05:17 +0000",
       "minecraft:phantom": "2025-06-14 23:13:08 +0000",
       "minecraft:witch": "2025-06-14 20:46:06 +0000",
       "minecraft:husk": "2025-06-15 21:00:57 +0000",
@@ -686,15 +687,33 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-06-15 23:05:04 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-06-15 22:37:11 +0000"
     },
     "done": true
   },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-06-15 23:05:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-06-15 22:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-15 22:58:18 +0000"
     },
     "done": true
   },
@@ -709,6 +728,12 @@
       "ex": "2025-06-15 22:36:07 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-06-15 23:05:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
