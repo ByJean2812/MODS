@@ -603,3 +603,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 15:52:14.011] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [15Jun2025 16:03:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Nightmare Stalker
 [15Jun2025 16:03:31.414] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 16:08:55.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Fortuitous Militia]
