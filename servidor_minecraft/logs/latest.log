@@ -618,3 +618,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 22:38:40.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Flowers of the Savanna]
 [15Jun2025 22:41:53.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
 [15Jun2025 22:51:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Flowers of the Savanna]
+[15Jun2025 22:55:35.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Straddle My Ol' Saddle]
+[15Jun2025 22:55:37.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Straddle My Ol' Saddle]
+[15Jun2025 22:56:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Giddy Blaze
+[15Jun2025 22:56:40.372] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 22:56:44.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Into Fire]
+[15Jun2025 22:56:53.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 22:58:18.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Into Fire]
+[15Jun2025 22:58:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Giddy Blaze
+[15Jun2025 22:58:59.474] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 22:59:09.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 22:59:12.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[15Jun2025 23:00:46.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Giddy Blaze
+[15Jun2025 23:00:46.025] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 23:00:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:01:31.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20783, l='ServerLevel[world]', x=-0.82, y=-20.00, z=183.67] died: Toxic Slime was killed

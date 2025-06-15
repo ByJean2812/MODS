@@ -7898,3 +7898,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 22:47:46.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 22:47:46.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jun2025 22:51:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Flowers of the Savanna]
+[15Jun2025 22:52:47.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 22:52:47.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 22:52:49.169] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-204, y=38, z=-229} at Chest with:minecraft:chests/bastion_other
+[15Jun2025 22:54:23.309] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=340, y=58, z=372} at Chest with:minecraft:chests/bastion_other
+[15Jun2025 22:55:35.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Straddle My Ol' Saddle]
+[15Jun2025 22:55:37.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Straddle My Ol' Saddle]
+[15Jun2025 22:56:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Giddy Blaze
+[15Jun2025 22:56:40.363] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:30, y:51, z:159, dim:minecraft:the_nether]
+[15Jun2025 22:56:40.372] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 22:56:42.411] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[15Jun2025 22:56:44.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Into Fire]
+[15Jun2025 22:56:53.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 22:57:46.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 22:57:46.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 22:58:18.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Into Fire]
+[15Jun2025 22:58:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Giddy Blaze
+[15Jun2025 22:58:59.467] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:39, y:51, z:159, dim:minecraft:the_nether]
+[15Jun2025 22:58:59.474] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 22:59:01.728] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[15Jun2025 22:59:09.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 22:59:12.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[15Jun2025 23:00:46.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Giddy Blaze
+[15Jun2025 23:00:46.015] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:29, y:64, z:161, dim:minecraft:the_nether]
+[15Jun2025 23:00:46.025] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 23:00:48.088] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[15Jun2025 23:00:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 23:01:31.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20783, l='ServerLevel[world]', x=-0.82, y=-20.00, z=183.67] died: Toxic Slime was killed

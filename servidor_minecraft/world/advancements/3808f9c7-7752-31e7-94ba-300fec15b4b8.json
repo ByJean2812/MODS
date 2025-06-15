@@ -543,7 +543,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-06-14 05:47:46 +0000"
+      "minecraft:nether_wastes": "2025-06-14 05:47:46 +0000",
+      "minecraft:basalt_deltas": "2025-06-15 22:53:09 +0000"
     },
     "done": false
   },
@@ -688,6 +689,12 @@
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-06-15 22:37:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-06-15 22:55:35 +0000"
     },
     "done": true
   },
