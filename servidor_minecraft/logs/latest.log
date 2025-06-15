@@ -611,3 +611,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 19:21:03.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25376, l='ServerLevel[world]', x=-704.50, y=74.00, z=1190.50]
 [15Jun2025 19:21:23.628] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25488, l='ServerLevel[world]', x=-704.50, y=74.00, z=1192.50]
 [15Jun2025 19:24:22.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[15Jun2025 19:35:53.876] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32460, l='ServerLevel[world]', x=-706.50, y=77.00, z=1191.50]
+[15Jun2025 19:37:51.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
