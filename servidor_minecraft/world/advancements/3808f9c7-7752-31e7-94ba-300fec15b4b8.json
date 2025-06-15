@@ -548,6 +548,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-14 05:47:46 +0000",
+      "minecraft:soul_sand_valley": "2025-06-15 23:26:15 +0000",
       "minecraft:basalt_deltas": "2025-06-15 22:53:09 +0000"
     },
     "done": false
@@ -714,6 +715,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-06-15 23:25:26 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-06-15 22:55:35 +0000"
@@ -752,6 +759,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-06-15 23:25:26 +0000",
       "incendium:toxic_heap": "2025-06-15 23:05:04 +0000"
     },
     "done": false
@@ -759,6 +767,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-15 23:16:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-06-15 23:25:26 +0000"
     },
     "done": true
   },
