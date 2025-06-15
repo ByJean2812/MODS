@@ -613,3 +613,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 19:24:22.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has completed the challenge [Yo mama so fat, she digests her fetuses]
 [15Jun2025 19:35:53.876] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32460, l='ServerLevel[world]', x=-706.50, y=77.00, z=1191.50]
 [15Jun2025 19:37:51.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 19:46:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell off a ladder
+[15Jun2025 19:46:02.803] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 19:46:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 19:47:39.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-47, z=456} BlockPos{x=10, y=-47, z=457}
+[15Jun2025 19:47:42.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-46, z=452} BlockPos{x=12, y=-46, z=451}
+[15Jun2025 19:47:42.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=-45, z=452} BlockPos{x=12, y=-46, z=451}
+[15Jun2025 19:48:29.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=-41, z=446} BlockPos{x=15, y=-41, z=446}
+[15Jun2025 19:48:39.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=-43, z=446} BlockPos{x=17, y=-44, z=446}
