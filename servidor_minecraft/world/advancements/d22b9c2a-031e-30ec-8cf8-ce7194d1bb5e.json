@@ -593,6 +593,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-06-15 20:13:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-06-15 18:43:32 +0000"
