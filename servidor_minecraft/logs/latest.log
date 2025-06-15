@@ -656,3 +656,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 20:38:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Enchanter]
 [15Jun2025 20:43:31.386] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=503} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [15Jun2025 20:49:26.124] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56978, l='ServerLevel[world]', x=-2.53, y=-256.00, z=533.04] died, message: 'Villager was killed'
+[15Jun2025 20:58:17.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 20:59:48.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has completed the challenge [Praise the Sun]
+[15Jun2025 21:00:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 21:03:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 21:05:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Husk
+[15Jun2025 21:05:14.997] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved

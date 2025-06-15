@@ -281,6 +281,7 @@
       "minecraft:phantom": "2025-06-14 22:30:29 +0000",
       "minecraft:zombified_piglin": "2025-06-14 20:35:46 +0000",
       "minecraft:witch": "2025-06-14 22:26:19 +0000",
+      "minecraft:husk": "2025-06-15 21:00:59 +0000",
       "minecraft:enderman": "2025-06-12 02:14:10 +0000",
       "minecraft:vex": "2025-06-13 00:50:07 +0000",
       "minecraft:zombie": "2025-06-11 03:23:55 +0000"
@@ -586,6 +587,12 @@
       "phantom": "2025-06-14 22:30:29 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-15 21:00:29 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {

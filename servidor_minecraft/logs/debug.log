@@ -7904,3 +7904,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 20:49:26.124] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56978, l='ServerLevel[world]', x=-2.53, y=-256.00, z=533.04] died, message: 'Villager was killed'
 [15Jun2025 20:54:25.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 20:54:25.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 20:58:17.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 20:59:25.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 20:59:25.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 20:59:48.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has completed the challenge [Praise the Sun]
+[15Jun2025 21:00:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 21:03:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 21:04:25.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 21:04:25.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 21:05:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Husk
+[15Jun2025 21:05:14.985] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:143, y:106, z:664, dim:minecraft:overworld]
+[15Jun2025 21:05:14.997] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[15Jun2025 21:05:16.430] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage

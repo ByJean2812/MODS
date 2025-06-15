@@ -282,6 +282,7 @@
       "minecraft:creeper": "2025-06-14 05:20:04 +0000",
       "minecraft:phantom": "2025-06-14 23:13:08 +0000",
       "minecraft:witch": "2025-06-14 20:46:06 +0000",
+      "minecraft:husk": "2025-06-15 21:00:57 +0000",
       "minecraft:cave_spider": "2025-06-14 05:12:53 +0000",
       "minecraft:enderman": "2025-06-13 02:07:45 +0000",
       "minecraft:silverfish": "2025-06-14 04:19:48 +0000",
@@ -638,6 +639,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-15 21:00:39 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:mommy": {
     "criteria": {
       "mommy": "2025-06-15 19:24:22 +0000"
@@ -653,6 +660,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-15 18:45:36 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-15 20:59:48 +0000"
     },
     "done": true
   },
