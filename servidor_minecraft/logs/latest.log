@@ -607,3 +607,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 18:55:49.538] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [15Jun2025 18:55:55.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
 [15Jun2025 18:56:12.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[15Jun2025 19:19:58.328] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24831, l='ServerLevel[world]', x=-707.50, y=77.00, z=1191.50]
+[15Jun2025 19:21:03.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25376, l='ServerLevel[world]', x=-704.50, y=74.00, z=1190.50]
+[15Jun2025 19:21:23.628] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25488, l='ServerLevel[world]', x=-704.50, y=74.00, z=1192.50]
