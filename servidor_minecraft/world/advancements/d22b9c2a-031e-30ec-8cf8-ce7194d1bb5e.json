@@ -587,6 +587,12 @@
     },
     "done": false
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 20:31:01 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:husbandry/beehive": {
     "criteria": {
       "beehive": "2025-06-15 18:43:32 +0000"
