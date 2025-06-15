@@ -577,39 +577,27 @@
     },
     "done": true
   },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2025-06-14 22:12:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-14 22:10:28 +0000"
     },
     "done": true
   },
-  "friendsandfoes:husbandry/beehive": {
+  "enemyexpansion:hunted": {
     "criteria": {
-      "beehive": "2025-06-14 22:29:56 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-06-14 22:19:35 +0000"
+      "hunted_0": "2025-06-14 22:12:25 +0000"
     },
     "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2025-06-14 23:13:08 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-06-14 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-14 22:19:35 +0000"
     },
     "done": true
   },
@@ -622,6 +610,24 @@
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2025-06-14 22:26:34 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2025-06-14 22:29:56 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-14 23:13:08 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry": "2025-06-14 23:21:22 +0000"
     },
     "done": true
   },
