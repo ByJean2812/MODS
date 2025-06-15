@@ -616,3 +616,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 22:38:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
 [15Jun2025 22:38:21.127] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [15Jun2025 22:38:40.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Flowers of the Savanna]
+[15Jun2025 22:41:53.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 22:51:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Flowers of the Savanna]
