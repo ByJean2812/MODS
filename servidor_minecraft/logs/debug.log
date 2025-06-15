@@ -7916,3 +7916,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 21:05:14.985] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:143, y:106, z:664, dim:minecraft:overworld]
 [15Jun2025 21:05:14.997] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [15Jun2025 21:05:16.430] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[15Jun2025 21:06:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Husk
+[15Jun2025 21:06:25.993] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[15Jun2025 21:06:27.492] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[15Jun2025 21:08:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Husk
+[15Jun2025 21:08:23.237] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:138, y:111, z:681, dim:minecraft:overworld]
+[15Jun2025 21:08:23.248] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[15Jun2025 21:08:24.879] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[15Jun2025 21:08:48.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 21:09:25.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 21:09:25.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 21:09:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[15Jun2025 21:09:51.811] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:164, y:67, z:673, dim:minecraft:overworld]
+[15Jun2025 21:09:51.846] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 21:09:54.075] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[15Jun2025 21:11:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 21:12:57.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 21:13:25.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66261, l='ServerLevel[world]', x=1.90, y=-256.00, z=514.46] died, message: 'Villager was killed'
+[15Jun2025 21:13:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 21:13:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Prank em John!]
+[15Jun2025 21:14:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [This Must be a Sign!]
+[15Jun2025 21:14:25.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 21:14:25.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

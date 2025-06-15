@@ -662,3 +662,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 21:03:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
 [15Jun2025 21:05:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Husk
 [15Jun2025 21:05:14.997] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[15Jun2025 21:06:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Husk
+[15Jun2025 21:06:25.993] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[15Jun2025 21:08:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Husk
+[15Jun2025 21:08:23.248] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[15Jun2025 21:08:48.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 21:09:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[15Jun2025 21:09:51.846] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[15Jun2025 21:11:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[15Jun2025 21:12:57.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 21:13:25.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66261, l='ServerLevel[world]', x=1.90, y=-256.00, z=514.46] died, message: 'Villager was killed'
+[15Jun2025 21:13:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[15Jun2025 21:13:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Prank em John!]
+[15Jun2025 21:14:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [This Must be a Sign!]
