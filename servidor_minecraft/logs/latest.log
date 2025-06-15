@@ -589,3 +589,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 18:15:23.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:46601] logged in with entity id 1563 at (0.4646339727769071, 108.0, 520.6533956815005)
 [15Jun2025 18:15:23.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
 [15Jun2025 18:15:26.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3341ms or 66 ticks behind
+[15Jun2025 18:32:02.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4705, l='ServerLevel[world]', x=1.50, y=116.00, z=515.50] died, message: 'Villager was killed'
